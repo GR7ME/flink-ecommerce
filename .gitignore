@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+.installed.cfg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment
+.env
+venv/
+ENV/
+
+# Compiled Python files
+*.pyc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+.qdrant-initialized
